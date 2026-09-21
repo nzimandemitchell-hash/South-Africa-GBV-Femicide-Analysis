@@ -2,7 +2,7 @@
 SQL and Power BI analysis of South African gender-based violence and femicide data.
 
 
-# 🇿🇦 South Africa GBV & Femicide Data Analysis
+
 
 ## Project Overview
 
